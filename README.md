@@ -1,2 +1,2 @@
-# terminus-logs
+# Bugcrowd POC
 Bugcrowd POC
